@@ -1,0 +1,13 @@
+[package]
+name = "arduino-pdp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+parking_lot = "0.12.3"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0.140"
+serialport = "4.7.1"
+tokio = "1.44.2"
+zeromq = "0.4.1"
