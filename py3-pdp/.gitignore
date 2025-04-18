@@ -1,0 +1,6 @@
+**/*.png
+**/*.jpg
+pdp-data/
+state.json
+pdpservice.json
+.env
