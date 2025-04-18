@@ -19,10 +19,10 @@ A Rust service that listens for ZMQ messages about PDP (Proof of Data Possession
 - Rust 1.85.0 or later
 - Arduino with LCD display
 - Serial port access
-- ZMQ message source
+- ZMQ message source `py3-pdp`
 - PDP Explorer API access
 
-Note! You might need to run `sudo chmod a+rw /dev/ttyACM1` if you the program is not able to open the port.
+Note! You might need to run `sudo chmod a+rw /dev/ttyACM1` if the program is not able to open the port.
 
 ## Configuration
 
