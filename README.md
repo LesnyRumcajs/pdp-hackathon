@@ -8,7 +8,7 @@ flowchart TD
     style Verifier fill:#00C107,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5,10
     style Arduino fill:#00BCD4,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5,10
     style Explorer fill:#9C27B0,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5,10
-    style User fill:#FFEB3B,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5,10
+    style User fill:#FF003B,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5,10
     
     %% Nodes Definition with Emojis
     User["👤 User (Uploads cat image)"]
