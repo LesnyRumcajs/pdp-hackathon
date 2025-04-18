@@ -1,5 +1,8 @@
 ## PDP uploader GUI in Python
 
+![image](https://github.com/user-attachments/assets/2973fc46-3cc3-42d1-8407-0a87d00808e4)
+
+
 ### Installation
 
 You need to install [poetry](https://python-poetry.org/docs/#installation) to manage the dependencies. Otherwise, you can use `pip` manually.
