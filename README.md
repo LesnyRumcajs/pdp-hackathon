@@ -30,3 +30,5 @@ flowchart TD
     classDef keyArrow fill:#FFC107,stroke:#FF5722,stroke-width:3px;
     class GUI,SP,Verifier,Arduino,Explorer keyArrow
 ```
+
+![image_from_ios](https://github.com/user-attachments/assets/6daa71dc-bed8-4e10-a193-b4f314e63a4e)
